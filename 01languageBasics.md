@@ -33,8 +33,8 @@ Arrays are similar to variables, but can hold more than one value.
 
 
 ### SYNTAX
-`DataType[ ] ArrayName = { Comma Separated Values } // Array of any size
-`DataType[] ArrayName = new DataType[3] {Command Separated Values } //Expects 3 values
+`DataType[ ] ArrayName = { Comma Separated Values } // Array of any size`
+`DataType[] ArrayName = new DataType[3] {Command Separated Values } //Expects 3 values`
 
 ### EXAMPLE
 `string[] MyGamesOf2013 = {"GTAV", "Battlefield3"};`
