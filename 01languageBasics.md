@@ -55,6 +55,7 @@ Concatenation is done through the + operator.
 ### STRING.FORMAT
 Formats an object, you specify the formatting you wish to perform, the following formats an
 integer and displays the currency symbol.
+
 ### EXAMPLE
 `Console.WriteLine(string.Format("{0:C}", 5));`
 Depending on your computers regional settings you will see £5.00 displayed (You’ll see your
